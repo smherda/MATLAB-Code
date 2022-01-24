@@ -1,6 +1,6 @@
-# MATLAB-Example-Code
+# MATLAB-Code
 
-This folder contains example code used for projects that I have worked on and were built using MATLAB. The code currently in the folder come from a chemical engineering class that I took.
+This folder contains example code I built using MATLAB. The code currently in the folder come from a chemical engineering class that I took.
 
 ## Installation
  
